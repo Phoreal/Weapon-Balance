@@ -1,0 +1,33 @@
+[PhoWeap_AssaultRifle_AR15]
+ItemName="AR-15 Varmint Rifle"
+ItemCategory="Assault Rifle"
+ItemDescription="•Damage = 30\n•Penetration = 0\n•Range = 60\n•RPM = 500\n•Alt-fire to toggle between fire modes."
+
+[PhoWeap_AssaultRifle_Bullpup]
+ItemName="SA80 L85A2 Bullpup"
+ItemCategory="Assault Rifle"
+ItemDescription="•Damage = 35\n•Penetration = 0\n•Range = 68\n•RPM = 610\n•Alt-fire to toggle between fire modes."
+
+[PhoWeap_AssaultRifle_AK12]
+ItemName="Kalashnikov AK-12"
+ItemCategory="Assault Rifle"
+ItemDescription="•Damage = 40\n•Penetration = 0\n•Range = 67\n•RPM = 600\n•Alt-fire to toggle between fire modes."
+
+[PhoWeap_AssaultRifle_SCAR]
+ItemName="SCAR-H Assault Rifle"
+ItemCategory="Assault Rifle"
+ItemDescription="•Damage = 55\n•Penetration = 0\n•Range = 70\n•RPM = 600\n•Alt-fire to toggle between fire modes."
+
+[PhoWeap_LMG_Stoner63A]
+ItemName="Stoner 63A LMG"
+ItemCategory="Light Machine Gun"
+ItemDescription="•Damage = 35\n•Penetration = 0\n•Range = 68\n•RPM = 750"
+
+[PhoWeap_AssaultRifle_M16M203]
+ItemName="M16 M203 Assault Rifle"
+ItemCategory="Assault Rifle"
+ItemDescription="•Damage = 35\n•Penetration = 0\n•Range = 68\n•RPM = 700\n•Alt-fire to fire grenades."
+SecondaryAmmo="M203 Grenade"
+
+[PhoGameInfo_PhoWeapon]
+GameName="Pho Weapon"
