@@ -84,7 +84,7 @@ DefaultProperties
 	InstantHitDamageTypes(DEFAULT_FIREMODE)=class'KFDT_Ballistic_M16M203'
 	FireInterval(DEFAULT_FIREMODE)=+0.085714 //700 RPM 	//0.086 
 	Spread(DEFAULT_FIREMODE)=0.0085
-	InstantHitDamage(DEFAULT_FIREMODE)=35.0 //24 //30
+	InstantHitDamage(DEFAULT_FIREMODE)=35.0 //24 //33
 	FireOffset=(X=30,Y=4.5,Z=-5)
 	SecondaryFireOffset=(X=20.f,Y=4.5,Z=-7.f)
 
@@ -92,10 +92,10 @@ DefaultProperties
 	FireModeIconPaths(ALTFIRE_FIREMODE)=Texture2D'ui_firemodes_tex.UI_FireModeSelect_BulletSingle'
 	FiringStatesArray(ALTFIRE_FIREMODE)=FiringSecondaryState
 	WeaponFireTypes(ALTFIRE_FIREMODE)=EWFT_Projectile
-	WeaponProjectiles(ALTFIRE_FIREMODE)=class'KFProj_HighExplosive_M16M203'
+	WeaponProjectiles(ALTFIRE_FIREMODE)=class'PhoProj_HighExplosive_M16M203'
 	InstantHitDamageTypes(ALTFIRE_FIREMODE)=class'KFDT_Ballistic_M203Impact'
 	FireInterval(ALTFIRE_FIREMODE)=+0.25f
-	InstantHitDamage(ALTFIRE_FIREMODE)=230.0 //150 //225
+	InstantHitDamage(ALTFIRE_FIREMODE)=150.0 //150 //225	//230
 	Spread(ALTFIRE_FIREMODE)=0.0085
 
 	// BASH_FIREMODE

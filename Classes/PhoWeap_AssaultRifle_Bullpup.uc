@@ -75,7 +75,7 @@ defaultproperties
 	WeaponFireTypes(ALTFIRE_FIREMODE)=EWFT_InstantHit
 	WeaponProjectiles(ALTFIRE_FIREMODE)=class'KFProj_Bullet_AssaultRifle'
 	InstantHitDamageTypes(ALTFIRE_FIREMODE)=class'KFDT_Ballistic_Bullpup'
-	FireInterval(ALTFIRE_FIREMODE)=+0.0983 // 610 RPM	//0.1
+	FireInterval(ALTFIRE_FIREMODE)=+0.09836 // 610 RPM	//0.1
 	InstantHitDamage(ALTFIRE_FIREMODE)=35.0 	//25	//30
 	Spread(ALTFIRE_FIREMODE)=0.0085
 

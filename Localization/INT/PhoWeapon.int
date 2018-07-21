@@ -16,7 +16,7 @@ ItemDescription="•Damage = 40\n•Penetration = 0\n•Range = 67\n•RPM = 600
 [PhoWeap_AssaultRifle_SCAR]
 ItemName="SCAR-H Assault Rifle"
 ItemCategory="Assault Rifle"
-ItemDescription="•Damage = 55\n•Penetration = 0\n•Range = 70\n•RPM = 600\n•Alt-fire to toggle between fire modes."
+ItemDescription="•Damage = 55\n•Penetration = 0\n•Range = 70\n•RPM = 625\n•Alt-fire to toggle between fire modes."
 
 [PhoWeap_LMG_Stoner63A]
 ItemName="Stoner 63A LMG"
