@@ -1,0 +1,1 @@
+class PhoWeap_Thrown_C4 extends KFWeap_Thrown_C4;

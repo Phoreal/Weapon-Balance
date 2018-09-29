@@ -1,4 +1,5 @@
-class PhoWeapDef_M16M203 extends KFWeaponDefinition;
+class PhoWeapDef_M16M203 extends KFWeaponDefinition
+	abstract;
 
 DefaultProperties
 {
